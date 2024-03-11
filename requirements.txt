@@ -1,5 +1,5 @@
-requests
-python-dotenv
-pandas 
-flask
-flask-cors
+flask-cors==4.0.0
+ipykernel==6.29.3
+pandas==2.2.1
+python-dotenv==1.0.1
+wikipedia==1.4.0
